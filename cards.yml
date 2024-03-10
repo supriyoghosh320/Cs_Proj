@@ -15,3 +15,11 @@ spring:
       hibernate:
         format_sql: true
     show-sql: true
+accounts:
+  message: "Welcome to EazyBank cards related DEv APIs "
+  contactDetails:
+    name: "Smitha Ray - Dev Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
