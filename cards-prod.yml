@@ -14,7 +14,7 @@ spring:
     show-sql: true
     
 accounts:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related PVT APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
